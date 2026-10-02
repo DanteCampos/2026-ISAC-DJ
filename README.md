@@ -12,6 +12,8 @@ The slides presented in the IEEE ISAC 2026 Conference are available [here](https
 
 ## Dependencies
 
+All simulations were executed using a Python 3.10 kernel.
+
 Make Sure you have the following packages installed in the Python kernel you use to run the Jupyter Notebooks:
 - matplotlib
 - numpy
