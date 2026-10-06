@@ -6,7 +6,7 @@ The scripts that execute our evaluated simulations, as well as the plots we incl
 Each Notebook generates 1 of the figures included in the paper.
 You can replicate our results using a local Jupyter Notebook server.
 
-Our paper is available [here](https://scholar.google.com.br/citations?user=NEuyEkUAAAAJ).
+A preprint of our paper is available on [ArXiv](https://arxiv.org/abs/2610.03879).
 
 The slides presented in the IEEE ISAC 2026 Conference are available [here](https://scholar.google.com.br/citations?user=NEuyEkUAAAAJ).
 
@@ -21,17 +21,17 @@ Make Sure you have the following packages installed in the Python kernel you use
 
 ## How To Cite Us
 
+While we do not have the final paper on IEEE Xplore, you can cite the preprint available on ArXiv: 
+
 ```bibtex
-@inproceedings{isac_dj_2026,
-        author={Campos, Daniel and Kibilda, Jacek},
-        title = {Performance Analysis of ISAC Slicing with Sensing-Assisted Communication and Communication-Assisted Sensing},
-        booktitle = {XXXXXXXXXXXXXXXXXXXXXX},
-        location = {Lisbon, Portugal},
-        year = {2026},
-        keywords = {Integrate Sensing and Communication, Network Slicing, Sensing-Assisted Communication, Bistatic Sensing},
-        organization={IEEE},
-        pages = {XXXXXXXXXXXXX},
-        doi={XXXXXXXXXXXXXXXXXXXXX}
+@misc{campos2026performanceanalysisisacslicing,
+      title={Performance Analysis of ISAC Slicing with Sensing-Assisted Communication and Communication-Assisted Sensing}, 
+      author={Daniel Campos and Jacek Kibilda},
+      year={2026},
+      eprint={2610.03879},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2610.03879}, 
 }
 ```
 
